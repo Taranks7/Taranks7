@@ -1,4 +1,4 @@
-### Hi, I'm Taranjit Sehmbi! 👋
+### Hi, I'm Taran! 👋🏽
 
 🌱 I’m currently a cognitive robotics student, specalising in deep learning and robotic vision \
 👩🏽‍💻 Aspiring machine learning engineer/data scientist \
