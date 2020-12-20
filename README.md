@@ -28,7 +28,5 @@
 <br />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=taranks7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151510">
-
-<img align="left" alt="Taran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taranks7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=806080" />
+<img src="https://github-readme-stats.vercel.app/api?username=taranks7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151538"><img align="left" alt="Taran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taranks7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=806080" />
 
