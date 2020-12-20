@@ -6,7 +6,12 @@
 🪐 Fun fact: my dream job growing up was to be an astronaut!
 
 ## Contact me: ##
-[LinkedIn](https://www.linkedin.com/in/taranjit-sehmbi/) [Twitter](https://twitter.com/Taranks7)
+
+<img align="left" alt="LinkedIn" width="26px" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" /> [LinkedIn][LinkedIn] **|**
+<img align="left" alt="Twitter" width="26px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" /> [Twitter][Twitter] 
+
+[LinkedIn]: https://www.linkedin.com/in/taranjit-sehmbi/ 
+[Twitter]: https://twitter.com/Taranks7
 
 
 ## Languages, libraries and tools: ### 
