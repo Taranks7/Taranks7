@@ -7,12 +7,15 @@
 
 ## Contact me: ##
 
+<img align="left" alt="Email" width="26px" src="https://i.pinimg.com/originals/bb/18/bd/bb18bdbbef437b2d50518db5a8292c94.png" /> [E-Mail](https://mailhide.io/e/YaGyTBMk)
+
 <img align="left" alt="LinkedIn" width="26px" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" /> [LinkedIn][LinkedIn] 
 
 <img align="left" alt="Twitter" width="26px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" /> [Twitter][Twitter] 
 
 [LinkedIn]: https://www.linkedin.com/in/taranjit-sehmbi/ 
 [Twitter]: https://twitter.com/Taranks7
+
 
 ### [View my project portfolio here!](https://github.com/Taranks7/Taranjit_Portfolio) ###
 
