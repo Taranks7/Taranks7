@@ -5,6 +5,8 @@
 🧠 I have a bachelor's degree (2:1) in Neuroscience from King's College London \
 🪐 Fun fact: my dream job growing up was to be an astronaut!
 
+### [View my project portfolio here!](https://github.com/Taranks7/Taranjit_Portfolio) ###
+
 ## Contact me: ##
 
 <img align="left" alt="Email" width="26px" src="https://i.pinimg.com/originals/bb/18/bd/bb18bdbbef437b2d50518db5a8292c94.png" /> [E-Mail](https://mailhide.io/e/YaGyTBMk)
@@ -15,9 +17,6 @@
 
 [LinkedIn]: https://www.linkedin.com/in/taranjit-sehmbi/ 
 [Twitter]: https://twitter.com/Taranks7
-
-
-### [View my project portfolio here!](https://github.com/Taranks7/Taranjit_Portfolio) ###
 
 <br />
 
