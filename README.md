@@ -14,8 +14,11 @@
 [LinkedIn]: https://www.linkedin.com/in/taranjit-sehmbi/ 
 [Twitter]: https://twitter.com/Taranks7
 
+### [View my project portfolio here!](https://github.com/Taranks7/Taranjit_Portfolio) ###
 
-## Languages, libraries and tools: ### 
+<br />
+
+## Languages, libraries and tools: ##
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
