@@ -15,8 +15,12 @@
 
 <img align="left" alt="Twitter" width="26px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" /> [Twitter][Twitter] 
 
+<img align="left" alt="Instagram" width="26px" src="https://logos-world.net/wp-content/uploads/2020/04/Instagram-Logo.png" /> [Instagram][Instagram] 
+
 [LinkedIn]: https://www.linkedin.com/in/taranjit-sehmbi/ 
 [Twitter]: https://twitter.com/Taranks7
+[Instagram]: https://www.instagram.com/tarann__/
+
 
 <br />
 
