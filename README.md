@@ -1,6 +1,6 @@
 ### Hi, I'm Taran! 👋🏽
 
-🌱 I’m currently a postgrad cognitive robotics student, specalising in deep learning and robotic vision \
+🌱 I’m currently a postgrad cognitive robotics student, specalising in robotic vision \
 👩🏽‍💻 Interested in machine learning, particularly deep learning \
 🧠 I have a bachelor's degree (2:1) in Neuroscience from King's College London \
 🪐 Fun fact: my dream job growing up was to be an astronaut!
