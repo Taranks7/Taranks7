@@ -5,7 +5,7 @@
 🧠 I have a bachelor's degree (2:1) in Neuroscience from King's College London \
 🪐 Fun fact: my dream job growing up was to be an astronaut!
 
-### [View my project portfolio here!](https://github.com/Taranks7/Taranjit_Portfolio) ###
+### [View my project portfolio here!](https://taranks7.github.io/Taranjit_Portfolio/) ###
 
 ## Contact me: ##
 
