@@ -4,7 +4,6 @@
 👩🏽‍💻 Interested in machine learning, particularly deep learning \
 🧠 I have a bachelor's degree (2:1) in Neuroscience from King's College London \
 🪐 Fun fact: my dream job growing up was to be an astronaut! \
-📚 ORCID: [0000-0002-4422-9881](https://orcid.org/0000-0002-4422-9881)
 ### [View my project portfolio here!](https://taranks7.github.io/Portfolio/) ###
 
 ## Contact me: ##
