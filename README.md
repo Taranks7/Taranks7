@@ -1,7 +1,7 @@
 ### Hi, I'm Taran! 👋🏽
 
-🌱 I’m currently a postgrad cognitive robotics student, working on data science projects and specalising in robotic vision \
-👩🏽‍💻 Interested in machine learning, particularly deep learning \
+🌱 I’m currently a postgrad cognitive robotics student, specalising in robotic vision \
+👩🏽‍💻 I work on data science projects, and machine learning and deep learning projects \
 🧠 I have a 2:1 BSc (Hons) Neuroscience degree from King's College London 
 ### [View my project portfolio here!](https://taranks7.github.io/Portfolio/) ###
 
