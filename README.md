@@ -3,7 +3,7 @@
 🌱 I’m currently a postgrad cognitive robotics student, specalising in robotic vision \
 👩🏽‍💻 Interested in machine learning, particularly deep learning \
 🧠 I have a bachelor's degree (2:1) in Neuroscience from King's College London \
-🪐 Fun fact: my dream job growing up was to be an astronaut! \
+🪐 Fun fact: my dream job growing up was to be an astronaut! 
 ### [View my project portfolio here!](https://taranks7.github.io/Portfolio/) ###
 
 ## Contact me: ##
