@@ -12,9 +12,6 @@
 
 <img align="left" alt="Twitter" width="26px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" /> [Twitter](https://twitter.com/Taranks7) 
 
-<img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" /> [Instagram](https://www.instagram.com/tarann__/)
-
-
 ## Languages, libraries and tools: ##
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -33,6 +30,5 @@
 
 <br />
 <br />
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=taranks7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=DB7093"><img align="left" alt="Taran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taranks7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=806080" />
