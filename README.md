@@ -1,8 +1,8 @@
 ### Hi, I'm Taran! 👋🏽
 
-🌱 I’m currently a postgrad cognitive robotics student, specialising in robotic vision and computational audio-visual modelling.
-👩🏽‍💻 I work on data science projects, utilising machine learning and deep learning methods to create predictive and classification models.
-🧠 I have a 2:1 BSc (Hons) Neuroscience degree from King's College London.
+🌱 I’m currently a postgrad cognitive robotics student, specialising in robotic vision and computational audio-visual modelling. \
+👩🏽‍💻 I work on data science projects, using machine learning + deep learning methods to create predictive and classification models. \
+🧠 I have a 2:1 BSc (Hons) Neuroscience degree from King's College London. 
 ### [View my project portfolio here!](https://taranks7.github.io/Portfolio/) ###
 
 ## Contact me: ##
