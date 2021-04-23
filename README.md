@@ -6,7 +6,9 @@
 ## [View my project portfolio here!](https://taranks7.github.io/Portfolio/) ##
 
 ### Contact me: ###
+
 <img align="left" alt="LinkedIn" width="26px" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" /> [LinkedIn](https://www.linkedin.com/in/taranjit-sehmbi/)
+
 <img align="left" alt="Twitter" width="26px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" /> [Twitter](https://twitter.com/Taranks7) 
 
 <br />
