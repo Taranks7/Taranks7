@@ -3,7 +3,7 @@
 🌱 I’m currently a postgrad cognitive robotics student, specialising in robotic vision and computational audio-visual modelling. \
 👩🏽‍💻 I work on data science projects, using machine learning + deep learning methods to create predictive and classification models. \
 🧠 I have a 2:1 BSc (Hons) Neuroscience degree from King's College London. 
-### [View my project portfolio here!](https://taranks7.github.io/Portfolio/) ###
+## [View my project portfolio here!](https://taranks7.github.io/Portfolio/) ##
 
 ## Contact me: ##
 
@@ -13,5 +13,4 @@
 
 <br />
 <br />
-
 <img src="https://github-readme-stats.vercel.app/api?username=taranks7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=DB7093"><img align="left" alt="Taran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taranks7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=806080" />
